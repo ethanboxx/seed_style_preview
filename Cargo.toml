@@ -19,7 +19,7 @@ ordered-float = "1.0.2"
 anymap = "0.12.1"
 derive_more = "0.99.5"
 # This commit points to Seed 0.7.0 with important fixes.
-seed = { git = "https://github.com/seed-rs/seed" }
+seed = { git = "https://github.com/ethanboxx/seed", branch = "Request_bytes" }
 # seed_hooks = "0.1.4"
 seed_hooks = { git = "https://github.com/ethanboxx/seed_hooks", branch = "master-seed" }
 # seed_hooks = {path = "../seed_hooks"}

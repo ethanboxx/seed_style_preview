@@ -31,6 +31,6 @@ seed = { git = "https://github.com/seed-rs/seed" }
 darling = "0.10.2"
 illicit = "1.1.0"
 
-seed_hooks = { git = "https://github.com/rebo/seed_hooks"}
+seed_hooks = { git = "https://github.com/ethanboxx/seed_hooks", branch = "master-seed" }
 # seed_hooks = {path = "../../seed_hooks"}
 # seed_hooks = "0.1.3"

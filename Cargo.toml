@@ -21,7 +21,7 @@ derive_more = "0.99.5"
 # This commit points to Seed 0.7.0 with important fixes.
 seed = { git = "https://github.com/seed-rs/seed" }
 # seed_hooks = "0.1.4"
-seed_hooks = { git = "https://github.com/rebo/seed_hooks"}
+seed_hooks = { git = "https://github.com/ethanboxx/seed_hooks", branch = "master-seed" }
 # seed_hooks = {path = "../seed_hooks"}
 objekt-clonable = "0.2.2"
 eager = "0.1.0"
